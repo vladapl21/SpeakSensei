@@ -1,3 +1,3 @@
 # SpeakSensei
  Currently developing gamified public speaking assistance app akin to Duolingo, but in a different sector. Using SwiftUI language.
-Will have a demo version ready by January 25th
+Will have a demo version ready by February 10th
